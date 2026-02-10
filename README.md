@@ -1,2 +1,2 @@
-# pub_Roberge_et_al_ConcentrationTracker_GMD
+# pub_Roberge_et_al_ConcentrationTracker_Manuals
 Repository for ConcentrationTracker user manuals.
